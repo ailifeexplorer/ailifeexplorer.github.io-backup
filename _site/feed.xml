@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-15T11:39:23-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">AI Life Explorer</title><subtitle>Bookmark this to keep an eye on my project updates!</subtitle><entry><title type="html">My Second Blog Post</title><link href="http://localhost:4000/2024/07/15/my-second-post.html" rel="alternate" type="text/html" title="My Second Blog Post" /><published>2024-07-15T00:00:00-04:00</published><updated>2024-07-15T00:00:00-04:00</updated><id>http://localhost:4000/2024/07/15/my-second-post</id><content type="html" xml:base="http://localhost:4000/2024/07/15/my-second-post.html"><![CDATA[<p>特朗普稳了，估计就是下一个总统，乌克兰可能会停火，特朗普比拜登清醒，要全力对付中国</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-07-15T11:44:39-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">AI Life Explorer</title><subtitle>Bookmark this to keep an eye on my project updates!</subtitle><entry><title type="html">My Second Blog Post</title><link href="http://localhost:4000/2024/07/15/my-second-post.html" rel="alternate" type="text/html" title="My Second Blog Post" /><published>2024-07-15T00:00:00-04:00</published><updated>2024-07-15T00:00:00-04:00</updated><id>http://localhost:4000/2024/07/15/my-second-post</id><content type="html" xml:base="http://localhost:4000/2024/07/15/my-second-post.html"><![CDATA[<p>特朗普稳了，估计就是下一个总统，乌克兰可能会停火，特朗普比拜登清醒，要全力对付中国</p>
 
 <p>拜登这个老糊涂，联合欧洲左派，一起对付中国，其实不好对付，</p>
 
@@ -17,7 +17,94 @@
 最新消息：前总统唐纳德·特朗普在周六晚上宾夕法尼亚州巴特勒的一场集会开始时听到巨响后被紧急带离舞台。
 特勤局表示，特朗普是安全的，并且在保护措施之下。一位发言人说特朗普“没事”，并称这起事件为“恶劣行为”，但具体发生了什么细节仍然很少。
 在听到巨响后，特朗普在舞台上被特工包围。可以看到他脸上有血迹，他在被带走时向人群举起了拳头。
-这起事件发生在特朗普和总统乔·拜登在2024年总统竞选中忙碌的一天之后。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[特朗普在宾夕法尼亚州集会中受伤]]></summary></entry><entry><title type="html">Mamala西餐</title><link href="http://localhost:4000/2020/08/31/mamala%E8%A5%BF%E9%A4%90.html" rel="alternate" type="text/html" title="Mamala西餐" /><published>2020-08-31T00:00:00-04:00</published><updated>2020-08-31T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/31/mamala%E8%A5%BF%E9%A4%90</id><content type="html" xml:base="http://localhost:4000/2020/08/31/mamala%E8%A5%BF%E9%A4%90.html"><![CDATA[<p><img src="https://gw.alipayobjects.com/zos/k/6f/L3GWS7.jpg" width="800" /></p>
+这起事件发生在特朗普和总统乔·拜登在2024年总统竞选中忙碌的一天之后。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[特朗普在宾夕法尼亚州集会中受伤]]></summary></entry><entry><title type="html">南京</title><link href="http://localhost:4000/2020/09/01/%E5%8D%97%E4%BA%AC.html" rel="alternate" type="text/html" title="南京" /><published>2020-09-01T00:00:00-04:00</published><updated>2020-09-01T00:00:00-04:00</updated><id>http://localhost:4000/2020/09/01/%E5%8D%97%E4%BA%AC</id><content type="html" xml:base="http://localhost:4000/2020/09/01/%E5%8D%97%E4%BA%AC.html"><![CDATA[<p><img src="https://gw.alipayobjects.com/zos/k/e2/o4FeLQ.jpeg" width="800" /></p>
+
+<p><small>封面图摄于南京总统府，有个城市旅游套路就是前几天吃吃逛逛，最后一天叫个跟团游，带你玩遍整个城市知名景点，车接送还很便宜，最后送你回高铁站，很香；此外南京是一座我觉得很潮流的城市，很值得一去，推荐去吃吃馨芳园、澳门轩、递酒烤场、哎抖猪蹄、郭阿姨月亮馍，然后逛逛新街口。 </small></p>
+
+<blockquote>
+  <p><strong>记录每周看到的前端潮流技术，筛选后用接地气方式发布于此，关注此专栏可以及时收到更新~</strong></p>
+</blockquote>
+
+<h2 id="前端技术">前端技术</h2>
+
+<p><strong>都 2021 了你居然还在用 WebStorm ？</strong><br />
+<a href="https://juejin.cn/post/6963835326821302303">https://juejin.cn/post/6963835326821302303</a><br />
+那么到底 WebStorm 更香在哪儿，来开一个 “历史倒车轮”，给大伙介绍一下「如何用上 WebStorm 最新正版？」「如何让 WebStorm 好用不卡？」，以及「WebStorm 香的地方在哪里？」。</p>
+
+<p><strong>前端水印实现方案</strong><br />
+<a href="https://juejin.cn/post/6964357725652254734">https://juejin.cn/post/6964357725652254734</a><br />
+来看看前端如何实现水印的功能，特别是那种看不见的。</p>
+
+<p><strong>百亿规模 API 网关服务 Shepherd 的设计与实现</strong><br />
+<a href="https://tech.meituan.com/2021/05/20/shepherd-api-gateway.html">https://tech.meituan.com/2021/05/20/shepherd-api-gateway.html</a><br />
+美团技术关于他们 Shepherd API 网关的系统设计、考虑因素、功能给做了一个详细介绍，值得学习一下。</p>
+
+<p><strong>如何看待 Google Docs 将从 HTML 迁移到基于 Canvas 渲染？</strong><br />
+<a href="https://www.zhihu.com/question/459251463">https://www.zhihu.com/question/459251463</a><br />
+有一种文艺复兴的感觉。</p>
+
+<h2 id="开源资讯">开源资讯</h2>
+
+<p><strong>fingerprintjs：很稳定和很准确的浏览器指纹库</strong><br />
+<a href="https://github.com/fingerprintjs/fingerprintjs/">https://github.com/fingerprintjs/fingerprintjs/</a><br />
+通过看你电脑上安装了哪些软件，加上对应的特征来生成对应的唯一 id 值，用于在网络跟踪用户，思路很不错。同时可通过<a href="https://schemeflood.com/">https://schemeflood.com/</a>来看效果。</p>
+
+<p><strong>Flutter-Responsive-Admin-Panel-or-Dashboard：漂亮的 flutter 管理面板</strong><br />
+<a href="https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard">https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard</a><br />
+对于想学习 flutter 的同学可以试试还是很漂亮的。<br />
+<img src="https://cdn.fliggy.com/upic/194j2u.gif" width="800" /></p>
+
+<p><strong>BackgroundMusic：控制 Mac 软件音量大小的自定义工具</strong><br />
+<a href="https://github.com/kyleneideck/BackgroundMusic">https://github.com/kyleneideck/BackgroundMusic</a><br />
+举个例子，你的电脑安装了一个软件，但是你不想他发出任何声音，就可以试试这个了。</p>
+
+<p><strong>SwiftUI-Hooks：受 react hooks 影响的 SwiftUI Hooks</strong><br />
+<a href="https://github.com/ra1028/SwiftUI-Hooks">https://github.com/ra1028/SwiftUI-Hooks</a><br />
+相比 OC 来说，个人很喜欢 Swift 这个语言。</p>
+
+<div class="language-swift highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">struct</span> <span class="kt">Example</span><span class="p">:</span> <span class="kt">HookView</span> <span class="p">{</span>
+    <span class="k">var</span> <span class="nv">hookBody</span><span class="p">:</span> <span class="kd">some</span> <span class="kt">View</span> <span class="p">{</span>
+        <span class="k">let</span> <span class="nv">time</span> <span class="o">=</span> <span class="nf">useState</span><span class="p">(</span><span class="kt">Date</span><span class="p">())</span>
+
+        <span class="nf">useEffect</span><span class="p">(</span><span class="o">.</span><span class="n">once</span><span class="p">)</span> <span class="p">{</span>
+            <span class="k">let</span> <span class="nv">timer</span> <span class="o">=</span> <span class="kt">Timer</span><span class="o">.</span><span class="nf">scheduledTimer</span><span class="p">(</span><span class="nv">withTimeInterval</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span> <span class="nv">repeats</span><span class="p">:</span> <span class="kc">true</span><span class="p">)</span> <span class="p">{</span>
+                <span class="n">time</span><span class="o">.</span><span class="n">wrappedValue</span> <span class="o">=</span> <span class="nv">$0</span><span class="o">.</span><span class="n">fireDate</span>
+            <span class="p">}</span>
+
+            <span class="k">return</span> <span class="p">{</span>
+                <span class="n">timer</span><span class="o">.</span><span class="nf">invalidate</span><span class="p">()</span>
+            <span class="p">}</span>
+        <span class="p">}</span>
+
+        <span class="k">return</span> <span class="kt">Text</span><span class="p">(</span><span class="s">"Now: </span><span class="se">\(</span><span class="n">time</span><span class="o">.</span><span class="n">wrappedValue</span><span class="se">)</span><span class="s">"</span><span class="p">)</span>
+    <span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+
+<p><strong>mobile-app-automizer：手机软件发版自动工具</strong><br />
+<a href="https://github.com/automizer/mobile-app-automizer">https://github.com/automizer/mobile-app-automizer</a><br />
+你可以通过这个自动化工具来自定义 Android、iOS 软件的编译、上传、版本管控。<br />
+<img src="https://cdn.fliggy.com/upic/eUi3o1.gif" width="800" /></p>
+
+<h2 id="他山之石">他山之石</h2>
+
+<p><strong>Google I/O 2021 的视频版本出来了</strong><br />
+<a href="https://www.youtube.com/playlist?list=PLOU2XLYxmsIJhsF3up2ueu2pRealr9raD">https://www.youtube.com/playlist?list=PLOU2XLYxmsIJhsF3up2ueu2pRealr9raD</a><br />
+可以看很长时间的视频，不过不说视频制作很精美，手语翻译同学超级有感觉。<br />
+<img src="https://cdn.fliggy.com/upic/HvoctW.gif" width="800" /></p>
+
+<p><strong>AhaClub X 少楠「我想用 flomo 改善一代人的思考方式」</strong><br />
+<a href="https://www.xiaoyuzhoufm.com/episode/60098bf729de8062086ffad5">https://www.xiaoyuzhoufm.com/episode/60098bf729de8062086ffad5</a><br />
+AhaClub 对最近比较潮流 <a href="https://flomoapp.com/mine">flomo</a> 记录软件的产品经理的一个播客记录，包括他对做产品的一些心得，值得一听。</p>
+
+<p><strong>中国经济的数字逻辑</strong><br />
+<a href="http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html">http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html</a><br />
+阮一峰对黄奇帆老师的《分析与思考》一书的读书笔记，这本书我过年的时候看过，将中国经济思考讲得非常透彻，很值得一读。</p>
+
+<p><strong>如何看待微信将于 5 月 19 日停止小程序打开 App 技术服务？微信此举意在何处？</strong><br />
+<a href="https://www.zhihu.com/question/459459278">https://www.zhihu.com/question/459459278</a><br />
+实话实说，我感觉很多时候微信做闭环做了很多损害用户体验的事情，这个停止打开小程序的需求明明是可以通过白名单申请来做的，直接就给一刀切了；作为前端，我还是坚信随处可访问的 url Web 生态才是王道。<br />
+<img src="https://cdn.fliggy.com/upic/2zJmrp.jpg" width="800" /></p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Mamala西餐</title><link href="http://localhost:4000/2020/08/31/mamala%E8%A5%BF%E9%A4%90.html" rel="alternate" type="text/html" title="Mamala西餐" /><published>2020-08-31T00:00:00-04:00</published><updated>2020-08-31T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/31/mamala%E8%A5%BF%E9%A4%90</id><content type="html" xml:base="http://localhost:4000/2020/08/31/mamala%E8%A5%BF%E9%A4%90.html"><![CDATA[<p><img src="https://gw.alipayobjects.com/zos/k/6f/L3GWS7.jpg" width="800" /></p>
 
 <p><small>封面图摄于 mamala 家的牛排，挺不错的一家西餐厅，窗外风景极其不错，适合在有仪式感的日子去吃一次~ </small></p>
 
@@ -517,84 +604,4 @@ Swift 提案居然开始支持 async/await 了。</p>
 
 <p><strong>对话腾讯总办局外人杨国安：首次复盘腾讯变革全过程</strong><br />
 <a href="https://mp.weixin.qq.com/s/kpS8RExdWMvvq-ce8G7qUQ">https://mp.weixin.qq.com/s/kpS8RExdWMvvq-ce8G7qUQ</a><br />
-所谓管理，就是用有限的资源创造最大的价值，对企业如此，人生亦如是。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">小酒吧听歌</title><link href="http://localhost:4000/2020/08/24/%E5%B0%8F%E9%85%92%E5%90%A7%E5%90%AC%E6%AD%8C.html" rel="alternate" type="text/html" title="小酒吧听歌" /><published>2020-08-24T00:00:00-04:00</published><updated>2020-08-24T00:00:00-04:00</updated><id>http://localhost:4000/2020/08/24/%E5%B0%8F%E9%85%92%E5%90%A7%E5%90%AC%E6%AD%8C</id><content type="html" xml:base="http://localhost:4000/2020/08/24/%E5%B0%8F%E9%85%92%E5%90%A7%E5%90%AC%E6%AD%8C.html"><![CDATA[<p><img src="https://gw.alipayobjects.com/zos/k/app2/121231231ddds.gif" width="800" /></p>
-
-<p><small>封面图摄于小酒吧听 <a href="https://cdn.fliggy.com/upic/sYBFaz.mp4">民谣</a>，点击图片可见视频，氛围很轻松～</small></p>
-
-<blockquote>
-  <p><strong>记录每周看到的前端潮流技术，筛选后用接地气方式发布于此，关注此专栏可以及时收到更新~</strong></p>
-</blockquote>
-
-<h3 id="前端技术">前端技术</h3>
-
-<p><strong>飞猪 Flutter 技术演进及业务改造的实践与思考总结</strong><br />
-<a href="https://mp.weixin.qq.com/s/iN2Z1oCYlZbuPEbVYVf4WQ">https://mp.weixin.qq.com/s/iN2Z1oCYlZbuPEbVYVf4WQ</a><br />
-飞猪旅鹤老师关于飞猪 Flutter 的体系化建设的一个文字分享版本。</p>
-
-<p><strong>Flutter 2 正式发布！</strong><br />
-<a href="https://mp.weixin.qq.com/s/tJe2ScLgKWFTybpBtDl2TA">https://mp.weixin.qq.com/s/tJe2ScLgKWFTybpBtDl2TA</a><br />
-通过 Flutter 2，您可以使用相同的代码库为五种操作系统构建原生应用: iOS、Android、Windows、macOS 和 Linux；以及为 Chrome、Firefox、Safari 和 Edge 等浏览器打造 web 体验。</p>
-
-<p><strong>深入剖析 JavaScript 编译器/解释器引擎 QuickJS</strong><br />
-<a href="https://mp.weixin.qq.com/s/sKP1Svn8r8z_VEIlbUcxTg">https://mp.weixin.qq.com/s/sKP1Svn8r8z_VEIlbUcxTg</a><br />
-多了解些 JavaScript 语言。</p>
-
-<p><strong>深入学习 JS 定时器</strong><br />
-<a href="http://www.alloyteam.com/2021/03/15389/">http://www.alloyteam.com/2021/03/15389/</a><br />
-腾讯 Alloy Team 的一篇文章，一起来看看 JS 中定时器的本质。</p>
-
-<p><strong>停止使用 Icon Fonts</strong><br />
-<a href="https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/">https://www.irigoyen.dev/blog/2021/02/17/stop-using-icon-fonts/</a><br />
-Icon Fonts 原来已经 22 年历史了，作者说了一些他的缺陷，以及建议使用 svg 来代替。</p>
-
-<h3 id="开源工具">开源工具</h3>
-
-<p><strong>搜狗拼音输入法的几款极简风格皮肤</strong><br />
-<a href="https://github.com/xiaochunjimmy/Sogou-Input-Skin">https://github.com/xiaochunjimmy/Sogou-Input-Skin</a><br />
-累计有 6 套我觉得很漂亮的主题，不过最喜欢下面这个。<br />
-<img src="https://gw.alipayobjects.com/zos/k/13/ITOmn9.jpg" width="800" /></p>
-
-<p><strong>miro：终端马里奥</strong><br />
-<a href="https://github.com/o2sh/miro">https://github.com/o2sh/miro</a><br />
-用 Rust 编写的 GPU 加速终端仿真器。<br />
-<img src="https://gw.alipayobjects.com/zos/k/t4/Idq37L.gif" width="800" /></p>
-
-<p><strong>web-minecraft：用 JS 写的我的世界</strong><br />
-<a href="https://github.com/michaljaz/web-minecraft">https://github.com/michaljaz/web-minecraft</a><br />
-<img src="https://gw.alipayobjects.com/zos/k/h9/bm0jil.jpg" width="800" /></p>
-
-<p><strong>filepond：一个灵活的文件上传 JS 库</strong><br />
-<a href="https://github.com/pqina/filepond">https://github.com/pqina/filepond</a><br />
-随仍随传，同时支持各种文件类型，并支持各类主流框架使用，体验看着还不错。<br />
-<img src="https://cdn.fliggy.com/upic/R0ThQS.gif" width="300" /></p>
-
-<p><strong>ytfzf：用命令行去找视频和看视频</strong><br />
-<a href="https://github.com/pystardust/ytfzf">https://github.com/pystardust/ytfzf</a><br />
-<img src="https://cdn.fliggy.com/upic/yhDZOX.gif" width="800" /></p>
-
-<p><strong>PaddleGAN：百度飞浆开源的一个很潮流的深度学习图像处理</strong><br />
-<a href="https://github.com/PaddlePaddle/PaddleGAN">https://github.com/PaddlePaddle/PaddleGAN</a><br />
-<img src="https://cdn.fliggy.com/upic/3rttI6.gif" width="800" /></p>
-
-<p><strong>Svelte NodeGUI</strong><br />
-<a href="https://svelte.nodegui.org/">https://svelte.nodegui.org/</a><br />
-使用 Node.js 和 Svelte 构建高性能的跨平台应用。<br />
-<img src="https://cdn.fliggy.com/upic/WJtQKD.jpg" width="800" /></p>
-
-<h2 id="他山之石">他山之石</h2>
-
-<p><strong>美团外卖特征平台的建设与实践</strong><br />
-<a href="https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html">https://tech.meituan.com/2021/03/04/featureplatform-in-mtwaimai.html</a><br />
-在美团外卖算法场景中，根据功能不同，外卖算法平台可划分为三部分：模型服务、模型训练和特征平台。其中模型服务用于提供在线模型预估，模型训练用于提供模型的训练产出，特征平台则提供特征和样本的数据支撑，本文将重点阐述外卖特征平台在建设过程中遇到的挑战以及优化思路。</p>
-
-<p><strong>为什么 Kubernetes 要替换 Docker</strong><br />
-<a href="https://draveness.me//whys-the-design-kubernetes-deprecate-docker">https://draveness.me//whys-the-design-kubernetes-deprecate-docker</a><br />
-Kubernetes 是今天容器编排领域的事实标准，而 Docker 从诞生之日到今天都在容器中扮演着举足轻重的地位，也都是 Kubernetes 中的默认容器引擎。然而在 2020 年 12 月，Kubernetes 社区决定着手移除仓库中 Dockershim 相关代码，来看看为什么？</p>
-
-<p><strong>详解知乎招股书：有什么价值？靠什么赚钱？凭什么活着？</strong><br />
-<a href="https://mp.weixin.qq.com/s/tt0r7ZPT3H9wP4eDWX_hEw">https://mp.weixin.qq.com/s/tt0r7ZPT3H9wP4eDWX_hEw</a><br />
-一起来看看知乎招股书，以及了解这 10 年到上市是怎么走过来的。</p>
-
-<p><strong>如何做一场高质量的分享</strong><br />
-<a href="https://mp.weixin.qq.com/s/Uwia82XlTMHPcvJ8QpPbSg">https://mp.weixin.qq.com/s/Uwia82XlTMHPcvJ8QpPbSg</a><br />
-阿相同学关于分享的一个分享很不错。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
+所谓管理，就是用有限的资源创造最大的价值，对企业如此，人生亦如是。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry></feed>
