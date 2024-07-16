@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Welcome to My Blog
-
-Here's a list of my latest posts:
+# 世界之爱 Ai
 
 {% for post in site.posts %}
 - [{{ post.title }}]({{ post.url }})
